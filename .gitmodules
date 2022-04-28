@@ -1,0 +1,6 @@
+[submodule "git-workshop"]
+	path = git-workshop
+	url = git@github.com:7484suraj/git-workshop.git
+[submodule "workshop-0"]
+	path = workshop-0
+	url = git@github.com:7484suraj/workshop-0.git
